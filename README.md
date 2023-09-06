@@ -11,6 +11,7 @@
 + + 0.3.1 [Архитектуры/модели](/KnowledgeBase/neuralNetwork/models.md) 
 + + 0.3.2 [TensorFlow](/KnowledgeBase/TensorFlow.md)
 
+
 ### 1. Картография
 + 1.1 [OpenAgro]()
 + 1.2 [WMS на основе снимков БПЛА]()
@@ -20,4 +21,7 @@
 + 2.2 [Детектор сорняков]()
 
 ### 3.  Электроника
-+ 3.1 [Проект 1]()  
++ 3.1 [Проект 1]()
++ 3.2 [Счётчик урожая](https://github.com/Ardbot/harvestCounter)
+
+### [Интересные технологии](/listTech.md)
