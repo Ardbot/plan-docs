@@ -5,10 +5,11 @@
 ## Проекты:
 ### 0. База знаний
 + 0.0 [Структура проекта](/KnowledgeBase/ProjectStructure.md)
-+ 0.1 [Label Studio](/KnowledgeBase/LabelStudio/LabelStudio.md)
++ 0.1 [Label Studio](/KnowledgeBase/LabelStudio.md)
 + 0.2 [Jupyter Notebook](/KnowledgeBase/JupyterNotebook.md)
-+ 0.3 [TensorFlow](/KnowledgeBase/TensorFlow.md)
-+ 0.4 [Модели/архитектуры](/KnowledgeBase/models.md)
++ 0.3 Нейросети
++ + 0.3.1 [TensorFlow](/KnowledgeBase/TensorFlow.md)
++ + 0.3.2 [Архитектуры/модели](/KnowledgeBase/models.md)
 
 ### 1. Картография
 + 1.1 [OpenAgro]()
