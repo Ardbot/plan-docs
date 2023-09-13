@@ -14,7 +14,8 @@
 
 ### 1. Картография
 + 1.1 [OpenAgro]()
-+ 1.2 [WMS на основе снимков БПЛА]()
++ 1.2 [MapServer инструкция](/knowledgeBase/mapServer.md)
++ 1.3 [WMS на основе снимков БПЛА]()
 
 ### 2. Нейросети
 + 2.1 [Счетчик рулонов](https://github.com/Ardbot/CounterRoll) 

@@ -79,3 +79,6 @@
 
 <!-- Жмём <kbd>Ctrl</kbd> + <kbd>1</kbd>  -->
 
+## Настройка MapServer
+
+инструкция по установке https://mapserver.org/installation/unix.html
