@@ -82,3 +82,9 @@
 ## Настройка MapServer
 
 инструкция по установке https://mapserver.org/installation/unix.html
+
+### Установка компонентов
+1. Установка [GDAL](https://mothergeo-py.readthedocs.io/en/latest/development/how-to/gdal-ubuntu-pkg.html)
+    + 1.1. Collecting GDAL==3.7.1.1
+
+хоспади! эти сборщики... я не осилил. устанавливаю версию для винды. Но еще вернусь сюда! 
