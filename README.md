@@ -4,12 +4,12 @@
 
 ## Проекты:
 ### 0. База знаний
-+ 0.0 [Структура проекта](/KnowledgeBase/ProjectStructure.md)
-+ 0.1 [Label Studio](/KnowledgeBase/LabelStudio.md)
-+ 0.2 [Jupyter Notebook](/KnowledgeBase/JupyterNotebook.md)
++ 0.0 [Структура проекта](/knowledgeBase/ProjectStructure.md)
++ 0.1 [Label Studio](/knowledgeBase/LabelStudio.md)
++ 0.2 [Jupyter Notebook](/knowledgeBase/JupyterNotebook.md)
 + 0.3 Нейросети
-+ + 0.3.1 [Архитектуры/модели](/KnowledgeBase/neuralNetwork/models.md) 
-+ + 0.3.2 [TensorFlow](/KnowledgeBase/TensorFlow.md)
++ + 0.3.1 [Архитектуры/модели](/knowledgeBase/neuralNetwork/models.md) 
++ + 0.3.2 [TensorFlow](/knowledgeBase/TensorFlow.md)
 
 
 ### 1. Картография
