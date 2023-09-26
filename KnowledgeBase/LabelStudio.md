@@ -27,6 +27,20 @@
    * Вращение рамки согласно json файлу 
 3. При сохранении json файла в Label Studio возможны пропуски привязки угла (отображает 0). Исправляется небольшим перемещением снимка и пересохранением файла. 
 
+## Экспорт данных
+
+Label Studio позволяет экспортировать даннные в различных форматах:
+
+|     Формат     |                            Тип                            |       Примечание       |
+| :------------: | :-------------------------------------------------------: | :--------------------: |
+|      JSON      |                             -                             | Содержит угол поворота |
+|    JSON-MIN    |                             -                             | Содержит угол поворота |
+|      CSV       |                             -                             |           -            |
+|      TSV       |                             -                             |           -            |
+|      COCO      | <kbd>image segmentation</kbd> <kbd>object detection</kbd> |           -            |
+| Pascal VOC XML | <kbd>image segmentation</kbd> <kbd>object detection</kbd> |           -            |
+|      YOLO      | <kbd>image segmentation</kbd> <kbd>object detection</kbd> |           -            |
+
 
 ## Источники:
-+ [Cпециализированные программы для разметки](https://www.youtube.com/watch?v=XMfUe7HC79I)
++ [Cпециализированные программы для разметки (видео)](https://www.youtube.com/watch?v=XMfUe7HC79I)
