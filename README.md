@@ -24,5 +24,6 @@
 ### 3.  Электроника
 + 3.1 [Проект 1]()
 + 3.2 [Счётчик урожая](https://github.com/Ardbot/harvestCounter)
++ 3.3 [LLS протокол](/KnowledgeBase/LLSprotocol.md)
 
 ### [Интересные технологии](/listTech.md)
