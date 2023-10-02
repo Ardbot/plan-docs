@@ -10,19 +10,21 @@
 + 0.3 Нейросети
 + + 0.3.1 [Архитектуры/модели](/knowledgeBase/neuralNetwork/models.md) 
 + + 0.3.2 [TensorFlow](/knowledgeBase/TensorFlow.md)
++ 0.4 [Kanboard](/knowledgeBase/Kanboard.md)
 
 
 ### 1. Картография
 + 1.1 [OpenAgro]()
 + 1.2 [MapServer инструкция](/knowledgeBase/mapServer.md)
 + 1.3 [WMS на основе снимков БПЛА]()
++ 1.4 [Карта урожайности](https://github.com/Ardbot/HarvestMap)
 
 ### 2. Нейросети
 + 2.1 [Счетчик рулонов](https://github.com/Ardbot/CounterRoll) 
 + 2.2 [Детектор сорняков]()
 
 ### 3.  Электроника
-+ 3.1 [Проект 1]()
++ 3.1 [Установка RFID считывателя](/knowledgeBase/hard/RFIDreader.md)
 + 3.2 [Счётчик урожая](https://github.com/Ardbot/harvestCounter)
 + 3.3 [LLS протокол](/KnowledgeBase/LLSprotocol.md)
 
