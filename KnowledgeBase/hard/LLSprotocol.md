@@ -27,6 +27,7 @@ LLS протокол используется в промышлености и �
 
 
 ## Источники:
+* [Script](/scripts/LLSprotocol.py)
 * [Видео](https://www.youtube.com/watch?v=pc8Wu1GhmnE)
 * [Документация]()
 * [Весовой контроллер (док.)](http://vesasystem.ru/f/prilozhenie_no3soobshcheniya_peredavaemye_po_shine_rs-485.pdf)

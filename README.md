@@ -1,6 +1,6 @@
 # Documentation
 Содержит в себе общеполезный материал, инструкции, памятки
-#### Автор: [Ardbot]()
+#### Автор: [Ardbot](https://github.com/Ardbot)
 
 ## Проекты:
 ### 0. База знаний
@@ -11,6 +11,10 @@
 + + 0.3.1 [Архитектуры/модели](/knowledgeBase/neuralNetwork/models.md) 
 + + 0.3.2 [TensorFlow](/knowledgeBase/TensorFlow.md)
 + 0.4 [Kanboard](/knowledgeBase/Kanboard.md)
++ 0.5 Структуры данных:
++ + 0.5.1 GeoPackage - форматы для ГИС
++ + 0.5.2 [LatLotVal](/knowledgeBase/Сartography/LatLotVal.md) - форматы для передачи геоданных
++ + 0.5.3 [Преобразователь треков Автограф - GeoJSON](/knowledgeBase/Сartography/LatLotVal.md) 
 
 
 ### 1. Картография
@@ -18,6 +22,7 @@
 + 1.2 [MapServer инструкция](/knowledgeBase/mapServer.md)
 + 1.3 [WMS на основе снимков БПЛА]()
 + 1.4 [Карта урожайности](https://github.com/Ardbot/HarvestMap)
++ 1.5 [QGIS. Преобразование линий в полигоны](/knowledgeBase/QGIS/area%20calculation.md)
 
 ### 2. Нейросети
 + 2.1 [Счетчик рулонов](https://github.com/Ardbot/CounterRoll) 
