@@ -31,6 +31,6 @@
 ### 3.  Электроника
 + 3.1 [Установка RFID считывателя](/knowledgeBase/hard/RFIDreader.md)
 + 3.2 [Счётчик урожая](https://github.com/Ardbot/harvestCounter)
-+ 3.3 [LLS протокол](/KnowledgeBase/LLSprotocol.md)
++ 3.3 [LLS протокол](/KnowledgeBase/hard/LLSprotocol.md)
 
 ### [Интересные технологии](/listTech.md)
