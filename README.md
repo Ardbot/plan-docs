@@ -4,7 +4,7 @@
 
 ## Проекты:
 ### 0. База знаний
-+ 0.0 [Структура проекта](/knowledgeBase/ProjectStructure.md)
++ 0.0 [Структура проекта](/knowledgeBase/projectExample/Readme.md)
 + 0.1 [Label Studio](/knowledgeBase/LabelStudio.md)
 + 0.2 [Jupyter Notebook](/knowledgeBase/JupyterNotebook.md)
 + 0.3 Нейросети
