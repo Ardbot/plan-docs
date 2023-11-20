@@ -36,3 +36,32 @@ function crc8(data, crc) {
 let data = [0x31, 0x00, 0x06];
 let crc = crc8(data, 0);
 console.log(crc.toString(16)); // Выводит: "a8"
+
+
+const SerialPort = require('serialport');
+
+// Создание объекта SerialPort с указанием порта и настроек
+const port = new SerialPort('COM1', {
+  baudRate: 9600,
+  dataBits: 8,
+  parity: 'none',
+  stopBits: 1,
+});
+
+// Обработка события открытия порта
+port.on('open', () => {
+  console.log('Порт открыт');
+  
+  // Отправка данных через порт
+  port.write('Hello, world!');
+});
+
+// Обработка события получения данных из порта
+port.on('data', (data) => {
+  console.log('Получены данные:', data.toString());
+});
+
+// Обработка ошибок при работе с портом
+port.on('error', (err) => {
+  console.error('Ошибка:', err.message);
+});
