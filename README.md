@@ -19,6 +19,7 @@
 
 
 ### 1. Картография
++ 1.0 [Files](/knowledgeBase/Сartography/files/)
 + 1.1 [OpenAgro]()
 + 1.2 [MapServer инструкция](/knowledgeBase/mapServer.md)
 + 1.3 [WMS на основе снимков БПЛА]()
