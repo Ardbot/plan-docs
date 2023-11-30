@@ -58,7 +58,7 @@ def crc8(data, crc):
     return crc
 
 
-# Примеры использования. Проверить онлайн https://crccalc.com/?crc=0x31 0x01 0x06&method=crc8&datatype=hex&outtype=0 (CRC-8/MAXIM)
+# Примеры использования. Проверить онлайн `https://crccalc.com/?crc=0x31%200x01%200x06&method=crc8&datatype=hex&outtype=0` (Столбец Result, строка CRC-8/MAXIM, сумма 0xA8. hex - hex)
 data = [0x31, 0x00, 0x06]
 crc = crc8(data, 0)
 print(hex(crc))  # Вернет 0xa8.
@@ -81,7 +81,7 @@ def connectToPort(port='COM1'):
         print(f'Connect to {port}')
 
         while True:
-            getLLS()
+            getLLS('31 00 06 A8')
 
             while ser.in_waiting > 0:
                 data = ser.readline()
@@ -95,7 +95,7 @@ def connectToPort(port='COM1'):
         return print(False, f"Ошибка подключения к {ser.name}.\n. Err: {e}")
 
 
-# connectToPort("COM5")
+connectToPort("COM5")
 
 
 # Функция подсчета контрольной суммы
@@ -105,7 +105,7 @@ def connectToPort(port='COM1'):
 # Перехваченные данные между Мастером и Рабом (Для примера)
 #  С Rfid картой
 """
-31 01 06 6C
+31 01 06 6C - это не HEX формат!  Вот HEX 0x31 0x01 0x06
 3E 01 06 00 00 00 00 00 CA
 
 31 00 06 A8 
