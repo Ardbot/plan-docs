@@ -10,6 +10,7 @@
     python3 -m venv LS_env      # Создаем виртуальное окружение LS_env (Только 1 раз)
     source LS_env/bin/activate  # Активируем виртуальное окружение
     pip install label-studio    # Устанавливаем label-studio в внутри виртуального окружения
+    label-studio                # Запуск 
     
 
 Ждем установки и командой `label-studio` запускаем программу в браузере на предложенном порту (`localhost:8080`)
