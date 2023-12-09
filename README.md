@@ -16,6 +16,7 @@
 + + 0.5.2 [LatLotVal](/knowledgeBase/Сartography/LatLotVal.md) - форматы для передачи геоданных
 + + 0.5.3 [Преобразователь треков Автограф - GeoJSON](/knowledgeBase/Сartography/LatLotVal.md)
 + 0.6 Заметки и идеи
++ 0.7 React (ecnfyjdrf)
 
 
 ### 1. Картография
@@ -25,6 +26,8 @@
 + 1.3 [WMS на основе снимков БПЛА]()
 + 1.4 [Карта урожайности](https://github.com/Ardbot/HarvestMap)
 + 1.5 [QGIS. Преобразование линий в полигоны](/knowledgeBase/Сartography/areaСalculation.md)
++ 1.6 [Постороение карты урожайности по данным Claas]()
++ 1.7 [Автоматизациия MetaShape](/KnowledgeBase/Сartography/MetaShape.md)
 
 ### 2. Нейросети
 + 2.1 [Счетчик рулонов](https://github.com/Ardbot/CounterRoll) 
