@@ -19,7 +19,7 @@
 + 0.7 [React](/KnowledgeBase/React.md)
 
 
-### 1. Картография
+### 1. [Картография](/KnowledgeBase/Сartography/Сartography.md)
 + 1.0 [Files](/knowledgeBase/Сartography/files/)
 + 1.1 [OpenAgro]()
 + 1.2 [MapServer инструкция](/knowledgeBase/mapServer.md)
@@ -28,6 +28,7 @@
 + 1.5 [QGIS. Преобразование линий в полигоны](/knowledgeBase/Сartography/areaСalculation.md)
 + 1.6 [Постороение карты урожайности по данным Claas]()
 + 1.7 [Автоматизациия MetaShape](/KnowledgeBase/Сartography/MetaShape.md)
++ 1.7 [GeoServer](/KnowledgeBase/Сartography/geoserver.md)
 
 ### 2. Нейросети
 + 2.1 [Счетчик рулонов](https://github.com/Ardbot/CounterRoll) 
