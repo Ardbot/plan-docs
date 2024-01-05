@@ -1,0 +1,14 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "./files",
+  "userIgnoreFilters": [
+    "*files",
+    "bigFiles/",
+    "templates/",
+    "periodic/"
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "projects",
+  "showInlineTitle": true
+}

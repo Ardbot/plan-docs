@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "224f65d6c3c8f9fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc2b452c45a4c18c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82b3c452c5b2a86c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "cb3771bdc81a3425",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Точка входа.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "996d5b16ecc4f983",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "periodic/daily/06.01.2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a6401f2d52aa4af",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae8a4ccca68e651e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f466c79e00ee76ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0fbaa7fb89e2324a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b322beabc5dfcf3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ac9c3b6e96ef35ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e9ecfd44d920a79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aef2c107b029e40c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "periodic/daily/06.01.2024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d39c19f77d9c4b05",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "periodic/daily/06.01.2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c786fe053128d97",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "60d574d0515c29e2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "periodic/daily/06.01.2024.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "996d5b16ecc4f983",
+  "lastOpenFiles": [
+    "periodic/daily/05.01.2024.md",
+    "Структура.canvas",
+    "periodic/daily/06.01.2024.md",
+    "Точка входа.md",
+    "Структура.md",
+    "templates/New format.md",
+    "projects/Справочная информация/Справочная информация.md",
+    "projects/Сторонние устройства/Lora E22400T30D.md",
+    "projects/2024-01-06.md",
+    "periodic/templates/Без названия.canvas",
+    "templates/blocks/About.md",
+    "periodic/daily/2024-01-06.md",
+    "projects/Справочная информация/dataFormat/TMS/Road map.md",
+    "projects/2024-01-05.md",
+    "projects/Сторонний софт/React.md",
+    "projects/Сторонний софт/Сторонний софт.md",
+    "projects/Сторонний софт/geoserver/geoserver.md",
+    "projects/Справочная информация/dataFormat/ovr.md",
+    "projects/Справочная информация/dataFormat/Форматы данных.md",
+    "projects/txt.md",
+    "templates/blocks/tables.md",
+    "templates/New device.md",
+    "templates/blocks/Headers.md",
+    "projects/tmp 3.md",
+    "templates/test/tmp 3.md",
+    "templates/test/tmp 1.md",
+    "templates/test/tmp2.md",
+    "templates/test",
+    "templates/blocks",
+    "projects/Сторонние устройства/RFID/scripts/bytes/send.ino/send.ino.ino",
+    "projects/Сторонние устройства/RFID/scripts/rc522.cpp2.ino/rc522.cpp2.ino.ino",
+    "projects/Сторонние устройства/RFID/scripts/rc522.cpp/rc522.cpp.ino",
+    "projects/Сторонние устройства/RFID/scripts/priem/priem.ino",
+    "projects/Сторонние устройства/RFID/scripts/bytes/send.ino",
+    "projects/Сторонние устройства/RFID/scripts/rc522.cpp2.ino",
+    "projects/Сторонние устройства/RFID/scripts/rc522.cpp",
+    "projects/Сторонние устройства/RFID/scripts/priem",
+    "projects/Сторонние устройства/LLS/files/lls.png",
+    "projects/Сторонние устройства/RFID/image.png",
+    "projects/Сторонние устройства/files/Pasted image 20240105191400.png",
+    "projects/Сторонний софт/LabelStudio/files/1.png"
+  ]
+}
