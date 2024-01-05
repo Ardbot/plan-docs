@@ -16,8 +16,19 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "868f31f7da47fff3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "periodic/daily/files/Pasted image 20240106040634.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "periodic/daily/files/Pasted image 20240106040634.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "periodic/daily/files/Pasted image 20240106040634.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "periodic/daily/files/Pasted image 20240106040634.png"
+              }
             }
           }
         ],
@@ -141,15 +156,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "586c5a2dfc136786",
+  "active": "868f31f7da47fff3",
   "lastOpenFiles": [
+    "periodic/daily/06.01.2024.md",
+    "periodic/daily/files/Pasted image 20240106040634.png",
+    "periodic/daily/files",
     "projects/Справочная информация/Справочная информация.md",
     "Структура.md",
     "Структура.canvas",
     "projects/Сторонние устройства/Умка 310.md",
     "projects/Сторонние устройства/RFID/Идентификация по RFID картам.md",
     "projects/Справочная информация/dataFormat/LLS/LLS.md",
-    "periodic/daily/06.01.2024.md",
     "projects/Сторонние устройства/Сторонние устройства.md",
     "README.md",
     "projects/Сторонний софт/Github publisher.md",
@@ -179,7 +196,6 @@
     "projects/Сторонние устройства/RFID/scripts/priem/priem.ino",
     "projects/Сторонние устройства/RFID/scripts/bytes/send.ino",
     "projects/Сторонние устройства/RFID/scripts/rc522.cpp2.ino",
-    "projects/Сторонние устройства/RFID/scripts/rc522.cpp",
     "projects/Справочная информация/dataFormat/LLS/files/lls.png",
     "projects/Сторонние устройства/RFID/image.png",
     "projects/Сторонние устройства/files/Pasted image 20240105191400.png",
