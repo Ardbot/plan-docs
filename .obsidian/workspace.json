@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "projects/Сторонний софт/JupyterNotebook.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "projects/Сторонний софт/JupyterNotebook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "projects/Сторонний софт/JupyterNotebook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "projects/Сторонний софт/JupyterNotebook.md"
               }
             }
           }
@@ -149,34 +149,33 @@
   },
   "active": "a8af3ec4dcf612c7",
   "lastOpenFiles": [
+    "projects/Сторонний софт/Сторонний софт.md",
+    "README.md",
+    "Структура.canvas",
+    "Точка входа.md",
+    "templates/blocks/tables.md",
+    "templates/blocks/Headers.md",
+    "templates/blocks/About.md",
+    "projects/Сторонний софт/JupyterNotebook.md",
     "projects/Сторонние устройства/RFID/Идентификация по RFID картам.md",
     "projects/Разработка устройств/Разработка устройств.md",
-    "README.md",
-    "Точка входа.md",
     "projects/Справочная информация/Справочная информация.md",
     "projects/Сторонний софт/geoserver/geoserver.md",
     "Структура.md",
-    "Структура.canvas",
     "periodic/daily/06.01.2024.md",
     "periodic/daily/05.01.2024.md",
     "templates/New format.md",
     "projects/Сторонние устройства/Lora E22400T30D.md",
     "projects/2024-01-06.md",
     "periodic/templates/Без названия.canvas",
-    "templates/blocks/About.md",
     "periodic/daily/2024-01-06.md",
     "projects/Справочная информация/dataFormat/TMS/Road map.md",
     "projects/2024-01-05.md",
     "projects/Сторонний софт/React.md",
-    "projects/Сторонний софт/Сторонний софт.md",
     "projects/Справочная информация/dataFormat/ovr.md",
     "projects/Справочная информация/dataFormat/Форматы данных.md",
     "projects/txt.md",
-    "templates/blocks/tables.md",
     "templates/New device.md",
-    "templates/blocks/Headers.md",
-    "projects/tmp 3.md",
-    "templates/test/tmp 3.md",
     "templates/test",
     "templates/blocks",
     "projects/Сторонние устройства/RFID/scripts/bytes/send.ino/send.ino.ino",
