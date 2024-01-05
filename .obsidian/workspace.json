@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "de7c72217ac254d4",
+        "id": "9ec334d3463fc3f0",
         "type": "tabs",
         "children": [
           {
-            "id": "55023eaa1ea7264e",
+            "id": "a8af3ec4dcf612c7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,10 +124,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -138,15 +147,19 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "55023eaa1ea7264e",
+  "active": "a8af3ec4dcf612c7",
   "lastOpenFiles": [
-    "Структура.canvas",
+    "projects/Сторонние устройства/RFID/Идентификация по RFID картам.md",
+    "projects/Разработка устройств/Разработка устройств.md",
     "README.md",
+    "Точка входа.md",
+    "projects/Справочная информация/Справочная информация.md",
+    "projects/Сторонний софт/geoserver/geoserver.md",
+    "Структура.md",
+    "Структура.canvas",
     "periodic/daily/06.01.2024.md",
     "periodic/daily/05.01.2024.md",
-    "Структура.md",
     "templates/New format.md",
-    "projects/Справочная информация/Справочная информация.md",
     "projects/Сторонние устройства/Lora E22400T30D.md",
     "projects/2024-01-06.md",
     "periodic/templates/Без названия.canvas",
@@ -156,7 +169,6 @@
     "projects/2024-01-05.md",
     "projects/Сторонний софт/React.md",
     "projects/Сторонний софт/Сторонний софт.md",
-    "projects/Сторонний софт/geoserver/geoserver.md",
     "projects/Справочная информация/dataFormat/ovr.md",
     "projects/Справочная информация/dataFormat/Форматы данных.md",
     "projects/txt.md",
@@ -165,8 +177,6 @@
     "templates/blocks/Headers.md",
     "projects/tmp 3.md",
     "templates/test/tmp 3.md",
-    "templates/test/tmp 1.md",
-    "templates/test/tmp2.md",
     "templates/test",
     "templates/blocks",
     "projects/Сторонние устройства/RFID/scripts/bytes/send.ino/send.ino.ino",
