@@ -8,10 +8,31 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:periodic  ",
+      "query": "path:\"projects/Сторонний софт\"  ",
       "color": {
         "a": 1,
-        "rgb": 6059222
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:\"projects/Разработка программ\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1355008
+      }
+    },
+    {
+      "query": "path:\"projects/Справочная информация\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6076630
+      }
+    },
+    {
+      "query": "path:\"projects/Сторонние устройства\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14075484
       }
     }
   ],
@@ -25,6 +46,6 @@
   "repelStrength": 13.125,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.4769860980686773,
-  "close": false
+  "scale": 0.3823010968770084,
+  "close": true
 }

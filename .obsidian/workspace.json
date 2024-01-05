@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9ec334d3463fc3f0",
+        "id": "611e9aa3b859dbcf",
         "type": "tabs",
         "children": [
           {
-            "id": "a8af3ec4dcf612c7",
+            "id": "586c5a2dfc136786",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projects/Сторонний софт/JupyterNotebook.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {},
+              "pinned": true
             }
           }
         ]
@@ -85,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/Сторонний софт/JupyterNotebook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/Сторонний софт/JupyterNotebook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "projects/Сторонний софт/JupyterNotebook.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,23 +141,28 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "a8af3ec4dcf612c7",
+  "active": "586c5a2dfc136786",
   "lastOpenFiles": [
-    "projects/Сторонний софт/Сторонний софт.md",
-    "README.md",
+    "projects/Справочная информация/Справочная информация.md",
+    "Структура.md",
     "Структура.canvas",
+    "projects/Сторонние устройства/Умка 310.md",
+    "projects/Сторонние устройства/RFID/Идентификация по RFID картам.md",
+    "projects/Справочная информация/dataFormat/LLS/LLS.md",
+    "periodic/daily/06.01.2024.md",
+    "projects/Сторонние устройства/Сторонние устройства.md",
+    "README.md",
+    "projects/Сторонний софт/Github publisher.md",
+    "periodic/daily/05.01.2024.md",
+    "projects/Сторонний софт/JupyterNotebook.md",
+    "CNAME",
+    "projects/Сторонний софт/Сторонний софт.md",
     "Точка входа.md",
     "templates/blocks/tables.md",
     "templates/blocks/Headers.md",
     "templates/blocks/About.md",
-    "projects/Сторонний софт/JupyterNotebook.md",
-    "projects/Сторонние устройства/RFID/Идентификация по RFID картам.md",
     "projects/Разработка устройств/Разработка устройств.md",
-    "projects/Справочная информация/Справочная информация.md",
     "projects/Сторонний софт/geoserver/geoserver.md",
-    "Структура.md",
-    "periodic/daily/06.01.2024.md",
-    "periodic/daily/05.01.2024.md",
     "templates/New format.md",
     "projects/Сторонние устройства/Lora E22400T30D.md",
     "projects/2024-01-06.md",
@@ -172,10 +171,6 @@
     "projects/Справочная информация/dataFormat/TMS/Road map.md",
     "projects/2024-01-05.md",
     "projects/Сторонний софт/React.md",
-    "projects/Справочная информация/dataFormat/ovr.md",
-    "projects/Справочная информация/dataFormat/Форматы данных.md",
-    "projects/txt.md",
-    "templates/New device.md",
     "templates/test",
     "templates/blocks",
     "projects/Сторонние устройства/RFID/scripts/bytes/send.ino/send.ino.ino",
@@ -185,8 +180,7 @@
     "projects/Сторонние устройства/RFID/scripts/bytes/send.ino",
     "projects/Сторонние устройства/RFID/scripts/rc522.cpp2.ino",
     "projects/Сторонние устройства/RFID/scripts/rc522.cpp",
-    "projects/Сторонние устройства/RFID/scripts/priem",
-    "projects/Сторонние устройства/LLS/files/lls.png",
+    "projects/Справочная информация/dataFormat/LLS/files/lls.png",
     "projects/Сторонние устройства/RFID/image.png",
     "projects/Сторонние устройства/files/Pasted image 20240105191400.png",
     "projects/Сторонний софт/LabelStudio/files/1.png"

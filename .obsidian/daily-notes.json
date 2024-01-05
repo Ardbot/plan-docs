@@ -1,5 +1,6 @@
 {
   "format": "DD.MM.YYYY",
   "folder": "periodic/daily",
-  "autorun": false
+  "autorun": false,
+  "template": ""
 }
