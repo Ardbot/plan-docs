@@ -1,9 +1,8 @@
 # База знаний Plan-Docs
 Содержит в себе общеполезный материал, инструкции, памятки.
 
-##### [Сторонние программы](projects/soft/index.md)
-##### [Сторонние устройства](projects/device/index.md)
-##### [Разработка программ](projects/development/dev_soft.md)
-##### [Разработка устройств](projects/development/index.md)
-##### [Справочная информация](projects/info/index.md)
+### [Программы](projects/soft/index.md)
+### [Устройства](projects/device/index.md)
+### [Разработка](projects/development/index.md)
+### [Справочник](projects/info/index.md)
 #### Автор: [Ardbot](https://github.com/Ardbot)

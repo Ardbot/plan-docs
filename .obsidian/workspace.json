@@ -32,31 +32,19 @@
             }
           },
           {
-            "id": "30726b57fd28e9d9",
+            "id": "2084342772247c08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/Obsidian Link Converter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7296d58d8c0c36c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projects/info/dataFormat/Форматы данных.md",
+                "file": "projects/info/index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/info/dataFormat/Форматы данных.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/info/dataFormat/Форматы данных.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/info/dataFormat/Форматы данных.md"
+                "file": "index.md"
               }
             }
           }
@@ -184,17 +172,23 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7296d58d8c0c36c7",
+  "active": "f9c61ba4037fe49d",
   "lastOpenFiles": [
-    "projects/soft/index.md",
+    "projects/info/index.md",
+    "index.md",
+    "projects/development/dev_soft.md",
+    "projects/development/index.md",
     "projects/Obsidian Link Converter.md",
+    "Структура.md",
+    "projects/device/RFID/Идентификация по RFID картам.md",
+    "Структура.canvas",
+    "periodic/daily/06.01.2024.md",
+    "06.01.2024.md",
+    "projects/info/dataFormat/Форматы данных.md",
+    "projects/soft/index.md",
     "periodic/daily/07.01.2024.md",
     "projects/githubPages.md",
-    "index.md",
-    "projects/info/index.md",
     "templates/blocks/Headers.md",
-    "projects/development/index.md",
-    "projects/development/dev_soft.md",
     "projects/soft/QGIS/index.md",
     "projects/device/index.md",
     "projects/Софт.md",
@@ -202,20 +196,14 @@
     "projects/soft/JupyterNotebook.md",
     "Точка входа.md",
     "projects/Test.md",
-    "periodic/daily/06.01.2024.md",
     "projects/soft/geoserver/geoserver.md",
     "projects/info/dataFormat/LatLotVal.md",
     "templates/blocks/Статусы заметки.md",
     "projects/info/dataFormat/ovr.md",
     "projects/info/dataFormat/GeoPackage.md",
-    "projects/info/dataFormat/autographJSON.md",
-    "projects/info/dataFormat/Форматы данных.md",
-    "Категориально.md",
     "periodic/daily/files/Pasted image 20240106040634.png",
     "CNAME",
     "periodic/daily/files",
-    "Структура.md",
-    "Структура.canvas",
     "periodic/templates/Без названия.canvas",
     "templates/test",
     "templates/blocks",
