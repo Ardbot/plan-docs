@@ -12,8 +12,9 @@ share: true
 ##### [[./projects/Справочная информация/Справочная информация|Справочная информация]]
 
 [LLS](LLS.md) Относительная MD
+[LLS](LLS.md) Относительная MD/
 [[LLS|LLS]] -wiki
 [[LLS|LLS]] короткая
 
-default
+Без md и с структурой
 #### Автор: [Ardbot](https://github.com/Ardbot)
