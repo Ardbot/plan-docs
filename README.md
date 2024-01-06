@@ -13,7 +13,7 @@ share: true
 
 ##### [dev_soft](projects/development/dev_soft.md)
 
-##### [dev_dev](projects/development/dev_dev.md)
+##### [index](projects/development/index.md)
 
 ##### [info](projects/info/info.md)
 

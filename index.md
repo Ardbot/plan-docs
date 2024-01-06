@@ -4,6 +4,6 @@
 ##### [Сторонние программы](projects/soft/index.md)
 ##### [Сторонние устройства](projects/device/index.md)
 ##### [Разработка программ](projects/development/dev_soft.md)
-##### [Разработка устройств](projects/development/dev_dev.md)
+##### [Разработка устройств](projects/development/index.md)
 ##### [Справочная информация](projects/info/info.md)
 #### Автор: [Ardbot](https://github.com/Ardbot)
