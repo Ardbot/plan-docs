@@ -7,9 +7,9 @@ share: true
 Содержит в себе общеполезный материал, инструкции, памятки.
 ### База знаний:
 
-##### [soft](projects/soft/soft.md)
+##### [index](projects/soft/index.md)
 
-##### [device](projects/device/device.md)
+##### [index](projects/device/index.md)
 
 ##### [dev_soft](projects/development/dev_soft.md)
 

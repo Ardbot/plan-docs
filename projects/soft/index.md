@@ -3,7 +3,7 @@
 [Jupyter Notebook](JupyterNotebook.md)
 [Label Studio](LabelStudio/LabelStudio.md)
 [MetaShape](MetaShape.md)
-[QGIS](QGIS/QGIS.md)
+[index](projects/soft/QGIS/index.md)
 [Kanboard](Kanboard.md)
 [React](React.md)
 
