@@ -18,31 +18,19 @@
             }
           },
           {
-            "id": "b1add66e7d1a94b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "54a5179b617e1ad3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "projects/Сторонний софт/JupyterNotebook.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "projects/Сторонний софт/JupyterNotebook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "projects/Сторонний софт/JupyterNotebook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "projects/Сторонний софт/JupyterNotebook.md"
               }
             }
           }
@@ -172,8 +160,11 @@
   },
   "active": "54a5179b617e1ad3",
   "lastOpenFiles": [
-    "projects/Без названия.md",
+    "projects/Сторонний софт/Сторонний софт.md",
+    "index.md",
     "README.md",
+    "projects/Сторонний софт/JupyterNotebook.md",
+    "projects/Без названия.md",
     "Точка входа.md",
     "projects/Test.md",
     "periodic/daily/06.01.2024.md",
@@ -197,11 +188,8 @@
     "projects/Сторонние устройства/Сторонние устройства.md",
     "projects/Сторонний софт/Github publisher.md",
     "periodic/daily/05.01.2024.md",
-    "projects/Сторонний софт/JupyterNotebook.md",
-    "projects/Сторонний софт/Сторонний софт.md",
     "templates/blocks/tables.md",
     "templates/blocks/Headers.md",
-    "templates/blocks/About.md",
     "periodic/templates/Без названия.canvas",
     "templates/test",
     "templates/blocks",
