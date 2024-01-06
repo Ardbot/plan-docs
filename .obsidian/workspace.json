@@ -37,26 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/soft/soft.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e9109e18fea42f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projects/info/info.md",
+                "file": "periodic/daily/07.01.2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "periodic/daily/07.01.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "periodic/daily/07.01.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "periodic/daily/07.01.2024.md"
               }
             }
           }
@@ -184,11 +172,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "f9c61ba4037fe49d",
+  "active": "8b6780080d350722",
   "lastOpenFiles": [
     "projects/soft/soft.md",
-    "projects/info/info.md",
+    "periodic/daily/07.01.2024.md",
     "index.md",
+    "projects/info/info.md",
     "projects/Софт.md",
     "projects/device/device.md",
     "projects/development/dev_dev.md",
@@ -215,7 +204,6 @@
     "projects/device/Умка 310.md",
     "projects/device/RFID/Идентификация по RFID картам.md",
     "projects/info/dataFormat/LLS/LLS.md",
-    "projects/soft/Github publisher.md",
     "periodic/templates/Без названия.canvas",
     "templates/test",
     "templates/blocks",

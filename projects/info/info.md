@@ -2,6 +2,6 @@
 share: true
 ---
 
-[linux](linux.md)
-[Форматы данных](Форматы%20данных.md)
-[Интересные технологии](Интересные%20технологии.md)
+[linux](projects/info/Linux/linux.md)
+[Форматы данных](projects/info/dataFormat/Форматы%20данных.md)
+[Интересные технологии](projects/info/Интересные%20технологии.md)

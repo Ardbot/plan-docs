@@ -16,4 +16,4 @@
 
 ### Литература:
 + [Обнаружение объектов на аэрофотоснимках с использованием RetinaNet](https://machinelearningmastery.ru/object-detection-on-aerial-imagery-using-retinanet-626130ba2203/)
-+ []()
++ [RetinaNet](projects/soft/NeuralNetwork/RetinaNet.md)

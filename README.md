@@ -7,15 +7,15 @@ share: true
 Содержит в себе общеполезный материал, инструкции, памятки.
 ### База знаний:
 
-##### [[soft|soft]]
+##### [soft](projects/soft/soft.md)
 
-##### [[device|device]]
+##### [device](projects/device/device.md)
 
-##### [[dev_soft|dev_soft]]
+##### [dev_soft](projects/development/dev_soft.md)
 
-##### [[dev_dev|dev_dev]]
+##### [dev_dev](projects/development/dev_dev.md)
 
-##### [[info|info]]
+##### [info](projects/info/info.md)
 
 #### Теги:
 #Картография #ФорматДанных #НейронныеСети #Hard 

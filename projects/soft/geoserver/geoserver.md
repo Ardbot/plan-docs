@@ -68,7 +68,7 @@ http://localhost:8080/geoserver/gwc/service/tms/1.0.0/Work%3ANameLayer@WebMercat
 ## Создание подложки из растровых данных ортофотоплана (ImageMosaic)
 
 Для отображения нескольких ортофотопланов используется инструмент ImageMosaic (Image mosaicking plugin).
-Он позволяет автоматически строить тайловый слой из нескольких изображений (Статический). В стокойвой конфигурации при добавлении файлов они не отображаются на карте. Так как файл shp уже создан и его необходимо обновить. Нам необходим динамический тип. Вот [инструкция](https://docs.geoserver.org/main/en/user/data/raster/imagemosaic/tutorial.html#dynamic-imagery), как это делается. [Билиотека rest python](https://docs.geoserver.geo-solutions.it/draft/edu/en/rest/python_gsconfig.html)
+Он позволяет автоматически строить тайловый слой из нескольких изображений (Статический). В стокойвой конфигурации при добавлении файлов они не отображаются на карте. Так как файл shp уже создан и его необходимо обновить. Нам необходим динамический тип. Вот [](https://docs.geoserver.org/main/en/user/data/raster/imagemosaic/tutorial.html#dynamic-imagery), как это делается. [Билиотека rest python](https://docs.geoserver.geo-solutions.it/draft/edu/en/rest/python_gsconfig.html)
 
 ## Подготовка NDVI снимков (kosmo)
 

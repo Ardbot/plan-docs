@@ -1,4 +1,4 @@
 # Разработка программ
 [OpenAgro](https://github.com/Ardbot/OpenAgro)
 [Карта урожайности](https://github.com/Ardbot/HarvestMap)
-[[Детектор сорняков]]
+[Детектор сорняков](Детектор%20сорняков)
