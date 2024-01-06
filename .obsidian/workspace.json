@@ -37,9 +37,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/development/index.md",
+                "file": "projects/info/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/development/index.md",
+                "file": "projects/info/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/development/index.md",
+                "file": "projects/info/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/development/index.md"
+                "file": "projects/info/index.md"
               }
             }
           }
@@ -174,14 +174,14 @@
   },
   "active": "e9489524a1d81ab6",
   "lastOpenFiles": [
-    "projects/development/dev_soft.md",
     "index.md",
     "projects/development/index.md",
+    "projects/development/dev_soft.md",
     "projects/soft/QGIS/index.md",
     "projects/device/index.md",
     "projects/soft/index.md",
     "periodic/daily/07.01.2024.md",
-    "projects/info/info.md",
+    "projects/info/index.md",
     "projects/Софт.md",
     "README.md",
     "projects/soft/JupyterNotebook.md",

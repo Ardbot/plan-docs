@@ -15,7 +15,7 @@ share: true
 
 ##### [index](projects/development/index.md)
 
-##### [info](projects/info/info.md)
+##### [index](projects/info/index.md)
 
 #### Теги:
 #Картография #ФорматДанных #НейронныеСети #Hard 
