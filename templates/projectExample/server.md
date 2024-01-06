@@ -6,7 +6,7 @@
 см. дополнительно справочник внизу
 
 ## Справочник по установке и настройке модулей:
-* [Установка окружения](templates/projectExample/server.md)
-* [Настройка FTP](templates/projectExample/server.md)
-* [Создание службы](templates/projectExample/server.md)
-* [Установка Jupyter Notebook](templates/projectExample/server.md)
+* [Установка окружения](.md)
+* [Настройка FTP](.md)
+* [Создание службы](.md)
+* [Установка Jupyter Notebook](.md)

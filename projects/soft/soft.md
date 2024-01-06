@@ -1,14 +1,14 @@
 Работа с программами. Описание моментов. Ошибки и т.п.
 
-[Jupyter Notebook](projects/soft/JupyterNotebook.md)
-[Label Studio](projects/soft/LabelStudio/LabelStudio.md)
-[MetaShape](projects/soft/MetaShape.md)
-[QGIS](projects/soft/QGIS/QGIS.md)
-[Kanboard](projects/soft/Kanboard.md)
-[React](projects/soft/React.md)
+[Jupyter Notebook](JupyterNotebook.md)
+[Label Studio](LabelStudio/LabelStudio.md)
+[MetaShape](MetaShape.md)
+[QGIS](QGIS/QGIS.md)
+[Kanboard](Kanboard.md)
+[React](React.md)
 
-[Mapnik](projects/soft/Mapnik.md)
-[MapServer](projects/soft/MapServer.md)
-[geoserver](projects/soft/geoserver/geoserver.md)
+[Mapnik](Mapnik.md)
+[MapServer](MapServer.md)
+[geoserver](geoserver/geoserver.md)
 
-[Нейронные сети](projects/soft/NeuralNetwork/Нейронные%20сети.md)
+[Нейронные сети](NeuralNetwork/Нейронные%20сети.md)

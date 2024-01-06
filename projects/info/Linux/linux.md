@@ -4,4 +4,4 @@ Linux - OC используемая для развертывания серве
 
 Заметки:
 
-[Autodeploy](projects/info/Linux/Autodeploy.md)
+[Autodeploy](Autodeploy.md)
