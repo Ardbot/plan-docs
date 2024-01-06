@@ -1,7 +1,5 @@
----
-share: true
----
+# Разработка устройств
 
 [Счётчик урожая](https://github.com/Ardbot/harvestCounter)
 [Счетчик рулонов](https://github.com/Ardbot/CounterRoll) 
-[[../../Идентификация по RFID картам|Идентификация по RFID картам]]
+[[Идентификация по RFID картам|Идентификация по RFID картам]]

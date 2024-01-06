@@ -18,12 +18,38 @@
             }
           },
           {
-            "id": "54a5179b617e1ad3",
+            "id": "f9c61ba4037fe49d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "8b6780080d350722",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/soft/soft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e9109e18fea42f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/info/info.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,50 +184,50 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "54a5179b617e1ad3",
+  "active": "f9c61ba4037fe49d",
   "lastOpenFiles": [
-    "projects/Сторонний софт/JupyterNotebook.md",
-    "projects/Сторонний софт/Сторонний софт.md",
+    "projects/soft/soft.md",
+    "projects/info/info.md",
     "index.md",
+    "projects/Софт.md",
+    "projects/device/device.md",
+    "projects/development/dev_dev.md",
     "README.md",
+    "projects/development/dev_soft.md",
+    "projects/soft/JupyterNotebook.md",
     "projects/Без названия.md",
     "Точка входа.md",
     "projects/Test.md",
     "periodic/daily/06.01.2024.md",
-    "projects/Сторонний софт/geoserver/geoserver.md",
-    "projects/Справочная информация/dataFormat/LatLotVal.md",
+    "projects/soft/geoserver/geoserver.md",
+    "projects/info/dataFormat/LatLotVal.md",
     "templates/blocks/Статусы заметки.md",
-    "projects/Справочная информация/dataFormat/ovr.md",
-    "projects/Справочная информация/dataFormat/GeoPackage.md",
-    "projects/Справочная информация/dataFormat/autographJSON.md",
-    "projects/Справочная информация/dataFormat/Форматы данных.md",
+    "projects/info/dataFormat/ovr.md",
+    "projects/info/dataFormat/GeoPackage.md",
+    "projects/info/dataFormat/autographJSON.md",
+    "projects/info/dataFormat/Форматы данных.md",
     "Категориально.md",
     "periodic/daily/files/Pasted image 20240106040634.png",
     "CNAME",
     "periodic/daily/files",
-    "projects/Справочная информация/Справочная информация.md",
     "Структура.md",
     "Структура.canvas",
-    "projects/Сторонние устройства/Умка 310.md",
-    "projects/Сторонние устройства/RFID/Идентификация по RFID картам.md",
-    "projects/Справочная информация/dataFormat/LLS/LLS.md",
-    "projects/Сторонние устройства/Сторонние устройства.md",
-    "projects/Сторонний софт/Github publisher.md",
-    "periodic/daily/05.01.2024.md",
-    "templates/blocks/tables.md",
-    "templates/blocks/Headers.md",
+    "projects/device/Умка 310.md",
+    "projects/device/RFID/Идентификация по RFID картам.md",
+    "projects/info/dataFormat/LLS/LLS.md",
+    "projects/soft/Github publisher.md",
     "periodic/templates/Без названия.canvas",
     "templates/test",
     "templates/blocks",
-    "projects/Сторонние устройства/RFID/scripts/bytes/send.ino/send.ino.ino",
-    "projects/Сторонние устройства/RFID/scripts/rc522.cpp2.ino/rc522.cpp2.ino.ino",
-    "projects/Сторонние устройства/RFID/scripts/rc522.cpp/rc522.cpp.ino",
-    "projects/Сторонние устройства/RFID/scripts/priem/priem.ino",
-    "projects/Сторонние устройства/RFID/scripts/bytes/send.ino",
-    "projects/Сторонние устройства/RFID/scripts/rc522.cpp2.ino",
-    "projects/Справочная информация/dataFormat/LLS/files/lls.png",
-    "projects/Сторонние устройства/RFID/image.png",
-    "projects/Сторонние устройства/files/Pasted image 20240105191400.png",
-    "projects/Сторонний софт/LabelStudio/files/1.png"
+    "projects/device/RFID/scripts/bytes/send.ino/send.ino.ino",
+    "projects/device/RFID/scripts/rc522.cpp2.ino/rc522.cpp2.ino.ino",
+    "projects/device/RFID/scripts/rc522.cpp/rc522.cpp.ino",
+    "projects/device/RFID/scripts/priem/priem.ino",
+    "projects/device/RFID/scripts/bytes/send.ino",
+    "projects/device/RFID/scripts/rc522.cpp2.ino",
+    "projects/info/dataFormat/LLS/files/lls.png",
+    "projects/device/RFID/image.png",
+    "projects/device/files/Pasted image 20240105191400.png",
+    "projects/soft/LabelStudio/files/1.png"
   ]
 }

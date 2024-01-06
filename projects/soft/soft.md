@@ -9,6 +9,6 @@
 
 [[Mapnik]]
 [[MapServer]]
-[[Geoserver]]
+[[geoserver]]
 
 [[Нейронные сети]]
