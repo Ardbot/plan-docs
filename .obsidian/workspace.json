@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/Сторонний софт/JupyterNotebook.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/Сторонний софт/JupyterNotebook.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/Сторонний софт/JupyterNotebook.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/Сторонний софт/JupyterNotebook.md"
+                "file": "index.md"
               }
             }
           }
@@ -160,10 +160,10 @@
   },
   "active": "54a5179b617e1ad3",
   "lastOpenFiles": [
+    "projects/Сторонний софт/JupyterNotebook.md",
     "projects/Сторонний софт/Сторонний софт.md",
     "index.md",
     "README.md",
-    "projects/Сторонний софт/JupyterNotebook.md",
     "projects/Без названия.md",
     "Точка входа.md",
     "projects/Test.md",
