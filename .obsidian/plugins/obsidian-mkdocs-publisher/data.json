@@ -1,8 +1,8 @@
 {
   "github": {
-    "user": "",
-    "repo": "",
-    "branch": "main",
+    "user": "Ardbot",
+    "repo": "plan-docs",
+    "branch": "",
     "automaticallyMergePR": true,
     "tokenPath": "%configDir%/plugins/%pluginID%/env",
     "api": {
@@ -15,7 +15,7 @@
     },
     "otherRepo": [],
     "verifiedRepo": false,
-    "rateLimit": 0
+    "rateLimit": 4998
   },
   "upload": {
     "behavior": "fixed",
@@ -69,8 +69,8 @@
   },
   "plugin": {
     "shareKey": "share",
-    "fileMenu": false,
-    "editorMenu": false,
+    "fileMenu": true,
+    "editorMenu": true,
     "excludedFolder": [],
     "copyLink": {
       "enable": false,
