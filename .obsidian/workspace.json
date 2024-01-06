@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/device/index.md",
+                "file": "projects/soft/QGIS/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/device/index.md",
+                "file": "projects/soft/QGIS/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/device/index.md",
+                "file": "projects/soft/QGIS/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/device/index.md"
+                "file": "projects/soft/QGIS/index.md"
               }
             }
           }
@@ -172,12 +172,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "f466c79e00ee76ae",
+  "active": "b4d13b8d1e8ddd77",
   "lastOpenFiles": [
     "projects/soft/index.md",
-    "index.md",
     "projects/soft/QGIS/index.md",
     "projects/device/index.md",
+    "index.md",
     "periodic/daily/07.01.2024.md",
     "projects/info/info.md",
     "projects/Софт.md",
