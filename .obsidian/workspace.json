@@ -32,19 +32,7 @@
             }
           },
           {
-            "id": "fdcf5db7da8f38b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Программы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11f9cae0326d0295",
+            "id": "680ca63a98fc02cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "708d53b7abf46144",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Разработка.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Разработка.md",
+                "file": "2. Устройства.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Разработка.md",
+                "file": "2. Устройства.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Разработка.md"
+                "file": "2. Устройства.md"
               }
             }
           },
@@ -204,13 +180,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "708d53b7abf46144",
+  "active": "680ca63a98fc02cf",
   "lastOpenFiles": [
     "index.md",
-    "2. Устройства.md",
     "1. Программы.md",
-    "4. Справочная информация.md",
+    "2. Устройства.md",
+    "projects/device/RFID/rfid.md",
     "3. Разработка.md",
+    "4. Справочная информация.md",
     "projects/device/Mielta Fantom.md",
     "projects/development/Детектор сорняков.md",
     "projects/device/Mielta Harvest.md",
@@ -234,7 +211,6 @@
     "projects/soft/obsidian/dataview.md",
     "tasks",
     "projects/soft/obsidian",
-    "projects/device/RFID/Идентификация по RFID картам.md",
     "periodic/daily/06.01.2024.md",
     "periodic/daily/files/Pasted image 20240106040634.png",
     "CNAME",
