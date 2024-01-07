@@ -1,0 +1,4 @@
+{
+  "connectionUrl": "test/postgres@ankmap.ru",
+  "adapterName": "PostgreSQL"
+}

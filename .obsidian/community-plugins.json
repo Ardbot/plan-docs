@@ -1,3 +1,6 @@
 [
-  "obsidian-link-converter"
+  "obsidian-link-converter",
+  "dataview",
+  "postgresql-obsidian",
+  "calendar"
 ]
