@@ -4,5 +4,5 @@
 ### [Программы](1.soft.md)
 ### [Устройства](2.device.md)
 ### [Разработка](3.dev.md)
-### [4.info](4.info.md)
+### [Справочная информация](4.info.md)
 #### Автор: [Ardbot](https://github.com/Ardbot)
