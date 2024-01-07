@@ -182,6 +182,7 @@
   },
   "active": "0e88b37515273242",
   "lastOpenFiles": [
+    "_config.yml",
     "projects/device/Mielta Harvest.md",
     "index.md",
     "projects/device/index.md",
@@ -210,7 +211,6 @@
     "templates/blocks/Headers.md",
     "projects/Софт.md",
     "README.md",
-    "projects/soft/JupyterNotebook.md",
     "periodic/daily/files/Pasted image 20240106040634.png",
     "CNAME",
     "periodic/daily/files",

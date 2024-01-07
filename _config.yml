@@ -1,0 +1,28 @@
+# Название вашего сайта
+title: База знаний Ardbot
+
+# Описание сайта
+description: БЗ
+
+# Тема сайта (если используется)
+theme: jekyll-theme-minimal
+
+# Базовый URL вашего сайта, если он размещен не в корне репозитория
+# baseurl: /название-репозитория
+
+# Включение поддержки GitHub Pages
+remote_theme: Ardbot/plan-docs
+
+# Дополнительные настройки
+plugins:
+  - jekyll-mentions
+  - jekyll-sitemap
+
+# Настройки для GitHub Pages
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true
