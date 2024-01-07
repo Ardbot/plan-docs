@@ -32,7 +32,21 @@
             }
           },
           {
-            "id": "2d6e6f4a2aaab160",
+            "id": "de89b29f8956fa94",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Новая Заметка.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "2a22b6f09659c154",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ".md",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,39 +190,42 @@
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
+      "zk-prefixer:Создать заметку с уникальным идентификатором": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "publish:Публикация изменений": false,
+      "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "2d6e6f4a2aaab160",
+  "active": "2a22b6f09659c154",
   "lastOpenFiles": [
+    "projects/202401072206.md",
+    "projects/202401072149.md",
+    "templates/Новая Заметка.md",
+    "projects/202401072148.md",
+    "projects/202401072146.md",
+    "projects/07_01_24-21_45.md",
+    "periodic/daily/07.01.2024.md",
+    "projects/not6_0701242138.md",
+    "projects/not6_0701242132.md",
     "projects/soft/QGIS/QGIS.md",
-    "funny/music.md",
-    "Оглавление из файлов.md",
-    "index.md",
-    "4.info.md",
-    "1.soft.md",
-    "projects/info/dataFormat/formData.md",
-    "projects/soft/QGIS/areaCalcTrack.md",
     "projects/soft/QGIS/rangFields.md",
-    "projects/soft/QGIS/dataClaas.md",
-    "5.funny.md",
-    "funny",
-    "templates/blocks/list.md",
-    "templates/New format.md",
-    "templates/New device.md",
-    "2.device.md",
-    "projects/info/dataFormat/ovr.md",
-    "projects/development/KnowledgeBase.md",
+    "Оглавление из файлов.md",
     "projects/info/ДУТ.md",
-    "3.dev.md",
-    "projects/device/RFID/rfid.md",
+    "projects/not6_0701242131.md",
+    "projects/soft/React.md",
+    "projects/info/dataFormat/GeoPackage.md",
+    "5.funny.md",
+    "projects/not6_0701242129.md",
+    "projects/202401072126.md",
+    "projects/202401072125.md",
+    "projects/202401072131.md",
+    "projects/202401072130.md",
+    "projects/202401072129.md",
+    "projects/202401072128.md",
+    "projects/202401072127.md",
     "projects/device/Mielta Fantom.md",
-    "projects/development/Детектор сорняков.md",
-    "projects/device/Mielta Harvest.md",
-    "projects/soft/geoserver/geoserver.md",
-    "projects/Jupyter Notebook.md",
-    "README.md",
+    "funny",
     "projects/Структура.canvas",
     "_config.yml",
     "tasks",

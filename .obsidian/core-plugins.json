@@ -14,7 +14,10 @@
   "command-palette",
   "editor-status",
   "bookmarks",
+  "zk-prefixer",
+  "random-note",
   "outline",
   "word-count",
-  "file-recovery"
+  "file-recovery",
+  "publish"
 ]

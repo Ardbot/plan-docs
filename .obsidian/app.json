@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "promptDelete": true,
+  "promptDelete": false,
   "attachmentFolderPath": "./files",
   "userIgnoreFilters": [
     "*files",
