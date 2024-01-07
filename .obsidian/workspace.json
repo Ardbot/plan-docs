@@ -40,7 +40,7 @@
               "state": {
                 "file": "templates/Новая Заметка.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "pinned": true
             }
@@ -56,9 +56,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5ec8181985f88615",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202401072206.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -124,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Оглавление из файлов.md",
+                "file": "202401072206.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Оглавление из файлов.md",
+                "file": "202401072206.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Оглавление из файлов.md"
+                "file": "202401072206.md"
               }
             }
           },
@@ -197,11 +209,16 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "2a22b6f09659c154",
+  "active": "5ec8181985f88615",
   "lastOpenFiles": [
-    "projects/202401072206.md",
-    "projects/202401072149.md",
     "templates/Новая Заметка.md",
+    "Оглавление из файлов.md",
+    "projects/development/KnowledgeBase.md",
+    "3.dev.md",
+    "index.md",
+    "projects/Obsidian Link Converter.md",
+    "202401072206.md",
+    "projects/202401072149.md",
     "projects/202401072148.md",
     "projects/202401072146.md",
     "projects/07_01_24-21_45.md",
@@ -210,7 +227,6 @@
     "projects/not6_0701242132.md",
     "projects/soft/QGIS/QGIS.md",
     "projects/soft/QGIS/rangFields.md",
-    "Оглавление из файлов.md",
     "projects/info/ДУТ.md",
     "projects/not6_0701242131.md",
     "projects/soft/React.md",
@@ -221,10 +237,6 @@
     "projects/202401072125.md",
     "projects/202401072131.md",
     "projects/202401072130.md",
-    "projects/202401072129.md",
-    "projects/202401072128.md",
-    "projects/202401072127.md",
-    "projects/device/Mielta Fantom.md",
     "funny",
     "projects/Структура.canvas",
     "_config.yml",
