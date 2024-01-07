@@ -10,10 +10,12 @@ tags:
 
 - [Окрашивание полей по уровню урожайности](rangFields.md)
 - [Калькулятор площади по трекам](areaCalcTrack.md)
-- [Построение карты урожайности по данным Claas](dataClaas.md)
 
 
 Дополнительно:
 - [Форматы данных](../../info/dataFormat/formData.md)
 
 ***Больше в папке project/QGIS***
+
+Псевдонимы: {{page.aliases}} <br>
+Теги: {{page.tags}}

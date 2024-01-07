@@ -1,9 +1,2 @@
----
-aliases: []
-tags:
----
-<h1>202401072226</h1>
-
-
 Псевдонимы: {{page.aliases}} <br>
 Теги: {{page.tags}}

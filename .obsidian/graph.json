@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:projects/device  ",
@@ -32,6 +32,6 @@
   "repelStrength": 13.125,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.38230109687699776,
-  "close": false
+  "scale": 0.09895430218637302,
+  "close": true
 }

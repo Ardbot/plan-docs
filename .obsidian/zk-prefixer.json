@@ -1,4 +1,4 @@
 {
-  "format": "",
+  "format": "DD_MM_YY-HH_mm",
   "template": "templates/Новая Заметка"
 }

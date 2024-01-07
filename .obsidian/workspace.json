@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "586c5a2dfc136786",
+            "id": "79f095919ee9bd37",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,47 +18,19 @@
             }
           },
           {
-            "id": "53fdf8a10dc89197",
+            "id": "219d7d1ecb6515e6",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/soft/QGIS/QGIS.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "de89b29f8956fa94",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Новая Заметка.md",
+                "file": "5.today.md",
                 "mode": "source",
                 "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "3093c6dd24bc4b73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "5.today.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "5.today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "5.today.md"
               }
             }
           },
@@ -193,40 +165,39 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "publish:Публикация изменений": false,
+      "publish:Публикация изменений": true,
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "3093c6dd24bc4b73",
+  "active": "219d7d1ecb6515e6",
   "lastOpenFiles": [
-    "templates/Новая Заметка.md",
-    "projects/202401072226.md",
-    "projects/202401072225.md",
-    "test.md",
-    "Оглавление из файлов.md",
-    "projects/development/KnowledgeBase.md",
-    "3.dev.md",
-    "index.md",
-    "projects/Obsidian Link Converter.md",
-    "projects/202401072149.md",
-    "projects/202401072148.md",
-    "projects/202401072146.md",
-    "projects/07_01_24-21_45.md",
-    "periodic/daily/07.01.2024.md",
-    "projects/not6_0701242138.md",
-    "projects/not6_0701242132.md",
-    "projects/soft/QGIS/QGIS.md",
-    "projects/soft/QGIS/rangFields.md",
-    "projects/info/ДУТ.md",
-    "projects/not6_0701242131.md",
-    "projects/soft/React.md",
-    "projects/info/dataFormat/GeoPackage.md",
-    "5.funny.md",
-    "projects/not6_0701242129.md",
-    "projects/202401072126.md",
-    "projects/202401072125.md",
-    "funny",
+    "6.funny.md",
+    "5.today.md",
     "projects/Структура.canvas",
+    "projects/soft/obsidian/githubPages.md",
+    "projects/07_01_24-23_32.md",
+    "projects/{{date}}.md",
+    "3.dev.md",
+    "projects/info/tech.md",
+    "4.info.md",
+    "templates/Новая Заметка.md",
+    "projects/info/Linux/linux.md",
+    "projects/info/dataFormat/formData.md",
+    "2.device.md",
+    "1.soft.md",
+    "README.md",
+    "Оглавление из файлов.md",
+    "projects/soft/obsidian/dataview.md",
+    "projects/soft/obsidian/Obsidian Link Converter.md",
+    "templates/blocks/tagsAliases.md",
+    "projects/GitHub pages.md",
+    "projects/development/KnowledgeBase.md",
+    "templates/New device.md",
+    "projects/soft/obsidian/Без названия.md",
+    "index.md",
+    "templates/New format.md",
+    "test.md",
+    "funny",
     "_config.yml",
     "tasks",
     "projects/soft/obsidian",
