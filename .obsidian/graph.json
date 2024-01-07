@@ -6,7 +6,22 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:projects/device  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:projects/soft  ",
+      "color": {
+        "a": 1,
+        "rgb": 6059222
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +32,6 @@
   "repelStrength": 13.125,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3823010968770128,
+  "scale": 0.75143423222776,
   "close": false
 }
