@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Устройства.md",
+                "file": "projects/development/KnowledgeBase.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Устройства.md",
+                "file": "projects/development/KnowledgeBase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Устройства.md",
+                "file": "projects/development/KnowledgeBase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Устройства.md"
+                "file": "projects/development/KnowledgeBase.md"
               }
             }
           },
@@ -182,11 +182,12 @@
   },
   "active": "680ca63a98fc02cf",
   "lastOpenFiles": [
+    "3. Разработка.md",
+    "projects/development/KnowledgeBase.md",
+    "2. Устройства.md",
     "index.md",
     "1. Программы.md",
-    "2. Устройства.md",
     "projects/device/RFID/rfid.md",
-    "3. Разработка.md",
     "4. Справочная информация.md",
     "projects/device/Mielta Fantom.md",
     "projects/development/Детектор сорняков.md",
@@ -211,7 +212,6 @@
     "projects/soft/obsidian/dataview.md",
     "tasks",
     "projects/soft/obsidian",
-    "periodic/daily/06.01.2024.md",
     "periodic/daily/files/Pasted image 20240106040634.png",
     "CNAME",
     "periodic/daily/files",
