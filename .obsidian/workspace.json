@@ -46,31 +46,19 @@
             }
           },
           {
-            "id": "2a22b6f09659c154",
+            "id": "3093c6dd24bc4b73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Оглавление из файлов.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "5ec8181985f88615",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202401072206.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202401072206.md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202401072206.md",
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202401072206.md"
+                "file": "test.md"
               }
             }
           },
@@ -209,15 +197,17 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "5ec8181985f88615",
+  "active": "3093c6dd24bc4b73",
   "lastOpenFiles": [
     "templates/Новая Заметка.md",
+    "projects/202401072226.md",
+    "projects/202401072225.md",
+    "test.md",
     "Оглавление из файлов.md",
     "projects/development/KnowledgeBase.md",
     "3.dev.md",
     "index.md",
     "projects/Obsidian Link Converter.md",
-    "202401072206.md",
     "projects/202401072149.md",
     "projects/202401072148.md",
     "projects/202401072146.md",
@@ -235,8 +225,6 @@
     "projects/not6_0701242129.md",
     "projects/202401072126.md",
     "projects/202401072125.md",
-    "projects/202401072131.md",
-    "projects/202401072130.md",
     "funny",
     "projects/Структура.canvas",
     "_config.yml",
