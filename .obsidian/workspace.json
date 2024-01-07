@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "9e75ea01925c1787",
+            "id": "0e88b37515273242",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,9 +180,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "9e75ea01925c1787",
+  "active": "0e88b37515273242",
   "lastOpenFiles": [
+    "projects/device/Mielta Harvest.md",
     "index.md",
+    "projects/device/index.md",
+    "projects/Obsidian Link Converter.md",
+    "projects/Автограф.md",
+    "projects/device/umka310.md",
     "tasks/задача 1.md",
     "periodic/daily/07.01.2024.md",
     "projects/soft/soft.md",
@@ -195,7 +200,6 @@
     "tasks",
     "projects/soft/obsidian",
     "projects/development/dev_soft.md",
-    "projects/Obsidian Link Converter.md",
     "Структура.md",
     "projects/device/RFID/Идентификация по RFID картам.md",
     "Структура.canvas",
@@ -204,13 +208,9 @@
     "projects/info/dataFormat/Форматы данных.md",
     "projects/githubPages.md",
     "templates/blocks/Headers.md",
-    "projects/device/index.md",
     "projects/Софт.md",
     "README.md",
     "projects/soft/JupyterNotebook.md",
-    "Точка входа.md",
-    "projects/Test.md",
-    "projects/soft/geoserver/geoserver.md",
     "periodic/daily/files/Pasted image 20240106040634.png",
     "CNAME",
     "periodic/daily/files",
