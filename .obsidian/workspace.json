@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "2ea05a70a964f6fd",
+            "id": "fdcf5db7da8f38b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,19 +44,31 @@
             }
           },
           {
-            "id": "01f0f1cfba2a0443",
+            "id": "11f9cae0326d0295",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "2. Устройства.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "708d53b7abf46144",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Разработка.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "3. Разработка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "3. Разработка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "3. Разработка.md"
               }
             }
           },
@@ -192,20 +204,25 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "01f0f1cfba2a0443",
+  "active": "708d53b7abf46144",
   "lastOpenFiles": [
-    "2. Устройства.md",
     "index.md",
+    "2. Устройства.md",
     "1. Программы.md",
-    "README.md",
-    "3. Разработка.md",
     "4. Справочная информация.md",
+    "3. Разработка.md",
+    "projects/device/Mielta Fantom.md",
+    "projects/development/Детектор сорняков.md",
+    "projects/device/Mielta Harvest.md",
+    "projects/device/ДУТ.md",
+    "projects/soft/geoserver/geoserver.md",
+    "projects/Jupyter Notebook.md",
+    "README.md",
     "projects/development/dev_soft.md",
     "projects/Структура.canvas",
     "Точка входа.md",
     "Структура.md",
     "_config.yml",
-    "projects/device/Mielta Harvest.md",
     "projects/Obsidian Link Converter.md",
     "projects/Автограф.md",
     "projects/device/umka310.md",
@@ -219,11 +236,6 @@
     "projects/soft/obsidian",
     "projects/device/RFID/Идентификация по RFID картам.md",
     "periodic/daily/06.01.2024.md",
-    "06.01.2024.md",
-    "projects/info/dataFormat/Форматы данных.md",
-    "projects/githubPages.md",
-    "templates/blocks/Headers.md",
-    "projects/Софт.md",
     "periodic/daily/files/Pasted image 20240106040634.png",
     "CNAME",
     "periodic/daily/files",
