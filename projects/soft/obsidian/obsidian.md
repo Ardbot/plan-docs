@@ -21,6 +21,7 @@ share: true
 ### Холст
 
 ## Плагины
+- [Github Publisher](GithubPublisher.md)
 - [Obsidian Link Converter](ObsidianLinkConverter.md)
 
 #### Настройка Obsidian:
