@@ -7,6 +7,7 @@ share: true
 
 # Обсидиан
 Удобная система управления заметками.
+[Видеоурок](https://www.youtube.com/live/3yAolXKgZi8?si=e9vWGwiulzKpWtgV&t=6)
 ### Виды заметок
 - Обычная
 - Дневная (сегодняшняя)
