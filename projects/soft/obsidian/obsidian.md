@@ -24,11 +24,11 @@ share: true
 - [Github Publisher](GithubPublisher.md)
 - [Obsidian Link Converter](ObsidianLinkConverter.md)
 
-#### Настройка Obsidian:
+#### Настройка Obsidian для публикации на сайте (GitHub Pages):
 - Формат новой ссылки - Относительный путь 
 - wiki-ссылки - отключены 
 - Место для вложенных файлов - В подпапке текущей папки 
 - Имя подпапки - files 
-... 
-
-
+## Что требуется реализовать
+* Автоматическое оглавление с использованием dataview
+* 
