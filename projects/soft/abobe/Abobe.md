@@ -8,4 +8,4 @@ share: true
 # Abobe
 
 - [Premiere Pro](premierePro.md)
-- [adobe audition](adobe%20audition.md)
+- [adobeAudition](adobeAudition.md)
