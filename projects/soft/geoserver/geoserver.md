@@ -1,3 +1,7 @@
+---
+share: true
+---
+
 # GeoServer
 #🗺️ #⚛
 
@@ -56,6 +60,17 @@ http://localhost:8080/geoserver/gwc/service/tms/1.0.0/Work%3ANameLayer@WebMercat
         attribution='geoserver'
       />
 ```
+
+
+## Форматы для [QGIS](../QGIS/QGIS.md)
+
+WMTS - Импортирует пакет с тайловыми слоями
+WMS - Импортирует 
+XYZ - Запрашивает тайлы с сервера. Напрямую в QGIS не работает. В леафлет необходимо к http://localhost:8081/geoserver/gwc/service/tms/1.0.0/Test%3Atest+orto@WebMercatorQuad@png добавить "/{z}/{x}/{y}.png". где x, y, z координаты в СК 3857
+
+
+http://localhost:8081/geoserver/gwc/service/wmts?service=WMTS&version=1.1.1&request=GetCapabilities - импортирует тайловый слой (TMS) в QGIS (Через добавления слоя WMS/WMTS) 
+
 
 ### Настройки GeoWebCache
 Создает кеш тайловой плитки.
