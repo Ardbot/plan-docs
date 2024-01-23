@@ -1,4 +1,9 @@
-{{date}}
+---
+aliases:
+  - Умка
+share: true
+---
+
 GPS трекер с возможностью написания скриптов
 
 Использует технологии [LLS](../info/dataFormat/LLS/LLS.md)
