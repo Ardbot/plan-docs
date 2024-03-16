@@ -23,14 +23,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.today.md",
+                "file": "projects/info/Linux/Autodeploy.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.today.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "5.today.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,34 +164,35 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "219d7d1ecb6515e6",
+  "active": "79f095919ee9bd37",
   "lastOpenFiles": [
-    "6.funny.md",
+    "projects/info/Linux/Autodeploy.md",
+    "projects/info/Linux/linux.md",
+    "projects/info/ДУТ.md",
+    "projects/info/tech.md",
+    "projects/device/Mielta_Fantom.md",
+    "projects/device/Mielta Harvest.md",
+    "1.soft.md",
+    "4.info.md",
+    "index.md",
+    "README.md",
+    "projects/development/KnowledgeBase.md",
     "5.today.md",
+    "6.funny.md",
     "projects/Структура.canvas",
     "projects/soft/obsidian/githubPages.md",
     "projects/07_01_24-23_32.md",
     "projects/{{date}}.md",
     "3.dev.md",
-    "projects/info/tech.md",
-    "4.info.md",
     "templates/Новая Заметка.md",
-    "projects/info/Linux/linux.md",
     "projects/info/dataFormat/formData.md",
     "2.device.md",
-    "1.soft.md",
-    "README.md",
     "Оглавление из файлов.md",
     "projects/soft/obsidian/dataview.md",
     "projects/soft/obsidian/Obsidian Link Converter.md",
     "templates/blocks/tagsAliases.md",
     "projects/GitHub pages.md",
-    "projects/development/KnowledgeBase.md",
     "templates/New device.md",
-    "projects/soft/obsidian/Без названия.md",
-    "index.md",
-    "templates/New format.md",
-    "test.md",
     "funny",
     "_config.yml",
     "tasks",
