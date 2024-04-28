@@ -1,24 +1,19 @@
 # Создание и развертка приложений
 
 ## Frontend
-### React:
-
-
-### Создание проекта
+### Создание проекта (Linux)
 ```bash
-cd D:\DEV # Каталог с приложениями
-npx create-react-app name_app # Создаем проект с именем name_app
-cd name_app
+cd /home # Каталог с приложениями
+npx create-react-app my_app # Создаем проект с именем my_app
+cd my_app
 npm start # Запуск приложения
 ```
-
 ### Билдинг приложения
 ```bash
 npm run build # Запуск деплоя. Папка размещается на сервере
 ```
-До билдинга смените путь в вайле .env! Иначе клиент будет обращаться к локалке!
-
-
+До билдинга смените путь в файле .env! Иначе клиент будет обращаться к локалке!
+В настройках NGINX указываем путь к папке build. Как вариант, разместить рядом с backend на FastApi и сделать переадресацию с `/` на `home`
 ### Копирование с GitHub 
 Клонируем репозиторий
 
@@ -27,20 +22,19 @@ git clone https://github.com/Ardbot/open_agro_client.git
 npm install    # Устанавливает зависимости с package.json
 npm start      # Стартуем
 ```
-
-
 ## По необходимости:
-### Устанавка дополнительных компонентов:
+### Установка дополнительных компонентов:
 ```bash
 npm install @mui/material @emotion/react @emotion/styled # Установка Material-UI
 ``` 
-### Загружаем на GitHub
 
-### Авторазвертывание на GitHub
+## Работа с GitHub:
+
+### Загрузка на GitHub
 В процессе
-
+## Авторазвёртывание на GitHub
+В процессе
 ## BackEnd:
-<!-- ### FastAPI -->
 
 #### Создание проекта
 ```bash
@@ -68,6 +62,8 @@ pip freeze > requirements.txt #  Создает список с пакетами
 ```
 
 ## Запуск приложения:
+
+## FastAPI
 
 ### В режиме отладки:
 ```bash
@@ -98,15 +94,16 @@ systemctl status my_app   # Статус
 systemctl enable my_app
 ```
 
- ### Настройка NGINX:
-  + В директорию `/etc/nginx/sites-available` положить [файл конфигурации](/documentation/files/openagro-nginx)
-  + Отредактировать его.
-  + Создать символическую ссылку на файл в каталоге `/etc/nginx/sites-enabled`:
-  ```bash
-  ln /etc/nginx/sites-available/my_app-nginx /etc/nginx/sites-enabled/
-  ```
-  + Перезагрузите NGINX:
-  ```bash
-  nginx -t
-  systemctl reload nginx
-  ```
+### Настройка NGINX:
++ В директорию `/etc/nginx/sites-available` положить [файл конфигурации](/documentation/files/openagro-nginx)
++ Отредактировать его.
++ Создать символическую ссылку на файл в каталоге `/etc/nginx/sites-enabled`:
+```bash
+ln /etc/nginx/sites-available/my_app-nginx /etc/nginx/sites-enabled/
+```
++ Перезагрузите NGINX:
+```bash
+nginx -t
+systemctl reload nginx
+```
+
