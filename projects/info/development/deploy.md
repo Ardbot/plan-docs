@@ -54,11 +54,13 @@ cd my_app # Преходим в папку с приложением
 python -m venv env # Виртуальное окружение
 source env/bin/activate # Активация окружение (Linux)
 .\env\Scripts\activate  # Активация окружение (Windows)
+pip install <name-pack>
+pip freeze > requirements.txt #  Создает список с пакетами
 ```
 
 #### Установка зависимостей  с репозитория:
 ```bash
-pip freeze > requirements.txt #  Создает список с пакетами
+pip install -r requirements.txt
 ```
 
 ## Запуск приложения:
