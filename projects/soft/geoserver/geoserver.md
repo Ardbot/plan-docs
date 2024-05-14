@@ -48,9 +48,11 @@ share: true
 Ссылка в текущем виде не пригодна для вставки в leaflet. 
 Добавляем между проекцией и расширением координаты `/{z}/{x}/{y}.` Получаем ссылку: 
 http://localhost:8080/geoserver/gwc/service/tms/1.0.0/Work%3ANameLayer@WebMercatorQuad/{z}/{x}/{y}.png' Будьте внимательнее, удостоверьтесь, что нет опечаток! 
-При открытии ссылки в браузере отобразится 400 ошибка. Попробуйте поставить свои значения. к примеру `...WebMercatorQuad/3/6/5.png` TMS отдаст тайл (вероятно, пустой) или скажет, что за диапазоном. `/3/6/5` это координаты z, x, y в СК WebMercatorQuad (EPSG:3857)
+* Если не получается, то попробуйте поставить `-y` (...@WebMercatorQuad/{z}/{x}/{-y}.png)
+* При открытии ссылки в браузере отобразится 400 ошибка. Попробуйте поставить свои значения. к примеру `...WebMercatorQuad/1/1/1.png` TMS отдаст тайл (вероятно, пустой) или скажет, что за диапазоном и предложит верный диапазон. 
+* `/1/1/1` это координаты z, x, y в СК WebMercatorQuad (EPSG:3857)
 
-При добавлении на Leaflet обязательно укажите опцию `tms`
+* При добавлении на Leaflet обязательно укажите опцию `tms`. Она преобразует (см. разницу между TMS и XYZ)
 
 Пример (React):
 ``` html
@@ -64,12 +66,12 @@ http://localhost:8080/geoserver/gwc/service/tms/1.0.0/Work%3ANameLayer@WebMercat
 
 ## Форматы для [QGIS](../QGIS/QGIS.md)
 
-WMTS - Импортирует пакет с тайловыми слоями
-WMS - Импортирует 
-XYZ - Запрашивает тайлы с сервера. Напрямую в QGIS не работает. В леафлет необходимо к http://localhost:8081/geoserver/gwc/service/tms/1.0.0/Test%3Atest+orto@WebMercatorQuad@png добавить "/{z}/{x}/{y}.png". где x, y, z координаты в СК 3857
+* WMTS - Импортирует пакет с тайловыми слоями
+* WMS - Импортирует 
+* XYZ - Запрашивает тайлы с сервера. Напрямую в QGIS не работает. В леафлет необходимо к http://localhost:8081/geoserver/gwc/service/tms/1.0.0/Test%3Atest+orto@WebMercatorQuad@png добавить "/{z}/{x}/{y}.png". где x, y, z координаты в СК 3857
 
 
-http://localhost:8081/geoserver/gwc/service/wmts?service=WMTS&version=1.1.1&request=GetCapabilities - импортирует тайловый слой (TMS) в QGIS (Через добавления слоя WMS/WMTS) 
+###### Пример: http://localhost:8081/geoserver/gwc/service/wmts?service=WMTS&version=1.1.1&request=GetCapabilities - импортирует тайловый слой (TMS) в QGIS (Через добавления слоя WMS/WMTS) 
 
 
 ### Настройки GeoWebCache
