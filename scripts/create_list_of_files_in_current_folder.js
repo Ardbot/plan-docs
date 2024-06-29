@@ -83,68 +83,134 @@ const { join, dirname } = require('path');
 //     return noteInfo;
 // };
 
+// module.exports = async () => {
+//     // const workspace = this.app.workspace;
+//     const { workspace, vault } = this.app;
+//     // const fileMap = workspace.app.vault.fileMap;
+//     // const fileMap = workspace.lastActiveFile.parent.children;
+//     const fileMap = workspace.lastActiveFile
+//     let noteInfo = '';
+
+//     console.log(fileMap);
+//     for (const folderPath in fileMap) {
+//         if (fileMap.hasOwnProperty(folderPath)) {
+//             const folder = fileMap[folderPath];
+//             // const folderName = folder.name || 'Главная';
+//             // console.log(folder);
+
+//             // Если папка
+//             // if (folder?.children) {
+
+//             //     // noteInfo += `${folderName}:\n`
+//             //     noteInfo += `${folderName}:\n`
+
+//             //     // папка с файлами
+//             //     children = folder?.children
+//             //     // for (md in children) {
+//             //     //     if (children.hasOwnProperty(md)) {
+
+//             //     //         // await vault.create(folderName, fileContent);
+
+//             //     //         const file = children[md];
+//             //     //         const fileName = file.name;
+//             //     //         const filePath = file?.path;
+//             //     //         if (fileName.endsWith('.md')) {
+//             //     //             // console.log(fileName)
+//             //     //             const fileLink = `- [${fileName}](${filePath})\n`;
+//             //     //             noteInfo += fileLink;
+//             //     //         }
+//             //     //     }
+//             //     // }
+//             //     // Дополнительный отсуп
+//             //     noteInfo += `\n`
+
+//             //     // if (fileName) {
+//             //     //     try {
+//             //     //         const fileContent = '# Новая заметка\n\nЭто содержимое новой заметки.';
+//             //     //         // Создание нового файла в корне хранилища
+//             //     //         await vault.create(fileName, fileContent);
+
+//             //     //         console.log(`Файл успешно создан: ${fileName}`);
+//             //     //         return `Файл успешно создан: ${fileName}`;
+//             //     //     } catch (error) {
+//             //     //         console.error('Ошибка при создании файла: ', fileName, error);
+//             //     //         if (error == 'File already exists.') {
+//             //     //             console.log(fileName, 'уже есть');
+//             //     //             return `${error.message} уже есть`
+//             //     //         }
+//             //     //         else{
+//             //     //             return `Ошибка при создании файла: ${error.message}`;
+//             //     //         }
+
+//             //     //     }
+//             //     // }
+
+//             // }
+//         }
+//     }
+//     return noteInfo;
+// };
+
+
+// Текущая
 module.exports = async () => {
     // const workspace = this.app.workspace;
     const { workspace, vault } = this.app;
-    const fileMap = workspace.app.vault.fileMap;
-    let noteInfo = "## Ссылки на заметки\n\n";
 
-    console.log(fileMap);
-    for (const filePath in fileMap) {
-        if (fileMap.hasOwnProperty(filePath)) {
-            const folder = fileMap[filePath];
-            const folderName = folder.name || 'Главная';
+    // Файлы в одной папке (текущей)
+    lastActiveFile = workspace.lastActiveFile
+    childrens = workspace.lastActiveFile.parent.children
 
-            // Если папка
-            if (folder?.children) {
+    console.log('lastActiveFile', lastActiveFile);
+    console.log('children', childrens);
 
-                noteInfo += `${folderName}:\n`
+    findFileByFolderName('1.soft')
 
-                // папка с файлами
-                children = folder?.children
-                for (md in children) {
-                    if (children.hasOwnProperty(md)) {
+    // поиск одноименого файла с папкой
 
-                        // await vault.create(folderName, fileContent);
 
-                        const file = children[md];
-                        const fileName = file.name;
-                        if (fileName.endsWith('.md')) {
-                            // console.log(fileName)
-                            const fileLink = `- [${fileName}](${filePath})\n`;
-                            noteInfo += fileLink;
-                        }
-                    }
-                }
-                // Дополнительный отсуп
-                noteInfo += `\n`
+    return list_files(childrens)
 
-                // if (fileName) {
-                //     try {
-                //         const fileContent = '# Новая заметка\n\nЭто содержимое новой заметки.';
-                //         // Создание нового файла в корне хранилища
-                //         await vault.create(fileName, fileContent);
+}
 
-                //         console.log(`Файл успешно создан: ${fileName}`);
-                //         return `Файл успешно создан: ${fileName}`;
-                //     } catch (error) {
-                //         console.error('Ошибка при создании файла: ', fileName, error);
-                //         if (error == 'File already exists.') {
-                //             console.log(fileName, 'уже есть');
-                //             return `${error.message} уже есть`
-                //         }
-                //         else{
-                //             return `Ошибка при создании файла: ${error.message}`;
-                //         }
 
-                //     }
-                // }
-
-            }
+function findFileByFolderName(folderName) {
+    const files = this.app.vault.getFiles();
+    for (let file of files) {
+        const parentFolder = file.parent;
+        if (parentFolder && parentFolder.name === folderName) {
+            console.log('ok', file);
+            return file;
         }
     }
+    console.log('no');
+    return null; // если файл не найден
+}
+
+function list_files(data) {
+    "Список файлов в папке"
+    let noteInfo = ''
+    let files = '';
+    let folders = '';
+    for (const children in data) {
+        const val = data[children];
+        const fileName = val.name
+        const path = val.path
+
+        if (fileName.endsWith('.md')) {
+            const title = `- [${fileName}](${fileName})\n`;
+            files += title;
+        }
+        else {
+            const fileLink = `- [${fileName}](${fileName})\n`;
+            // console.log('folder', fileLink);
+            folders += fileLink;
+        }
+    }
+    noteInfo += folders + '\n' + 'Без категории:' + '\n' + files + '\n'
     return noteInfo;
-};
+}
+
 
 // const fs = require('fs');
 // const path = require('path');

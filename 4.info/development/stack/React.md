@@ -6,7 +6,7 @@ share: true
 ---
 # React
 
-![](../venv.md#Создание)
+![](4.info/development/venv123.md#Создание)
 
 ## Создание проекта 
 ```bash
