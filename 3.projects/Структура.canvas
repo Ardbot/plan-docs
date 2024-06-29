@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"2758c4faab0f160d","type":"file","file":"1.soft/1.soft.md","x":180,"y":70,"width":400,"height":400},
+		{"id":"2758c4faab0f160d","type":"file","file":"1.soft.md","x":180,"y":70,"width":400,"height":400},
 		{"id":"a4dd04515be69039","type":"file","file":"3.dev.md","x":-255,"y":70,"width":400,"height":400},
-		{"id":"f353af9f01a86d76","type":"file","file":"2.device/2.device.md","x":640,"y":70,"width":400,"height":400},
-		{"id":"df331e8e34e93712","type":"file","file":"4.info/4.info.md","x":1080,"y":70,"width":400,"height":400},
+		{"id":"f353af9f01a86d76","type":"file","file":"2.device.md","x":640,"y":70,"width":400,"height":400},
+		{"id":"df331e8e34e93712","type":"file","file":"4.info.md","x":1080,"y":70,"width":400,"height":400},
 		{"id":"fa51c0e60f7655d3","type":"text","text":"Точка входа","x":500,"y":-200,"width":250,"height":60,"color":"4"}
 	],
 	"edges":[
