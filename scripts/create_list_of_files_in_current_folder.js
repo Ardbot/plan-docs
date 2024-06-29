@@ -93,16 +93,19 @@ module.exports = async () => {
     for (const filePath in fileMap) {
         if (fileMap.hasOwnProperty(filePath)) {
             const folder = fileMap[filePath];
-            const folderName = folder.name;
+            const folderName = folder.name || 'Главная';
+
             // Если папка
             if (folder?.children) {
 
-                noteInfo += `${folderName}:\n `
+                noteInfo += `${folderName}:\n`
 
                 // папка с файлами
                 children = folder?.children
                 for (md in children) {
                     if (children.hasOwnProperty(md)) {
+
+                        // await vault.create(folderName, fileContent);
 
                         const file = children[md];
                         const fileName = file.name;
@@ -114,7 +117,7 @@ module.exports = async () => {
                     }
                 }
                 // Дополнительный отсуп
-                noteInfo += `\n `
+                noteInfo += `\n`
 
                 // if (fileName) {
                 //     try {
