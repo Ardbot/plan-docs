@@ -2,5 +2,5 @@
 ## Стек:
 - [React](stack/React.md)
 ## Инструменты:
-- [Создание виртуального окружения](4.info/development/venv123.md)
+- [Создание виртуального окружения](4.info/development/venv.md)
 
